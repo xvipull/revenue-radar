@@ -1,0 +1,5 @@
+product_id,product_name,category,list_price,approved_discount_pct,cogs_unit_price
+P-100,Atlas Pro,Software,1200,0.15,410
+P-200,Nimbus Core,Software,800,0.1,270
+P-300,Orbit Desk,Hardware,450,0.08,255
+P-400,Vista Kit,Hardware,250,0.05,155

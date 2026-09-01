@@ -1,0 +1,11 @@
+return_id,order_id,return_value,return_reason
+RET-0011,ORD-0011,356.25,Damaged
+RET-0022,ORD-0022,831.25,Buyer remorse
+RET-0033,ORD-0033,360.0,Damaged
+RET-0044,ORD-0044,1428.0,Buyer remorse
+RET-0055,ORD-0055,414.0,Damaged
+RET-0066,ORD-0066,332.5,Buyer remorse
+RET-0077,ORD-0077,711.0,Damaged
+RET-0088,ORD-0088,1008.0,Buyer remorse
+RET-0099,ORD-0099,828.0,Damaged
+RET-0110,ORD-0110,579.6,Buyer remorse

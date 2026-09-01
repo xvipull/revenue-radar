@@ -1,0 +1,5 @@
+customer_id,customer_name,segment,region
+C-01,Northstar Retail,Enterprise,North
+C-02,Aperture Labs,Mid-market,West
+C-03,Keystone Group,Enterprise,East
+C-04,Bluebird Co,SMB,South
